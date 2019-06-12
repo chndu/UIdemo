@@ -8,6 +8,7 @@ docker pull dosel/zalenium
 
 
 [root@localhost ~]# docker images
+
 REPOSITORY                                                     TAG                 IMAGE ID            CREATED             SIZE
 docker.io/dosel/zalenium                                       latest              7e7adf0d5c6a        4 days ago          588 MB
 docker.io/elgalu/selenium                                      latest              f98a57e57137        2 weeks ago         1.45 GB
